@@ -25,4 +25,4 @@ El archivo script2.sql contiene consultas SQL que se pueden utilizar para obtene
 <h2>Uso</h2>
 Para utilizar estos scripts, es necesario tener instalado MySQL en su computadora. Descargue los archivos SQL y ejecútelos en su cliente de MySQL para crear la base de datos y realizar consultas.
 
-Tenga en cuenta que los archivos SQL están diseñados para trabajar en una base de datos llamada "tienda". Si desea utilizar otro nombre de base de datos, asegúrese de cambiar los comandos CREATE DATABASE y USE en el archivo script_creacion.sql a su nombre de base de datos preferido.
+Tenga en cuenta que los archivos SQL están diseñados para trabajar en una base de datos llamada "tienda". Si desea utilizar otro nombre de base de datos, asegúrese de cambiar los comandos CREATE DATABASE y USE en el archivo script1.sql a su nombre de base de datos preferido.
